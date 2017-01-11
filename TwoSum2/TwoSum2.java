@@ -24,7 +24,7 @@ public class TwoSum2 {
         return rst;
     }
 	
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		int[] nums = {1, 3, 5, 7, 9,10};
 		int target = 8;
 		
@@ -32,5 +32,5 @@ public class TwoSum2 {
 		int[] rst = so.twoSum(nums, target);
 		for (int i = 0; i < 2; i++)
 			System.out.print(rst[i]);
-	}
+	}*/
 }

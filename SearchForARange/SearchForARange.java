@@ -49,7 +49,7 @@ public class SearchForARange {
         return rst;
     }
 	
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		int[] input = {-5,-4,-3,-3, 1,1,1,3,4,5,5,5,6,7,7,8};
 		int target = 1;
 		
@@ -59,5 +59,5 @@ public class SearchForARange {
 		
 		System.out.print(result[0] + " ");
 		System.out.print(result[1]);
-	}
+	}*/
 }

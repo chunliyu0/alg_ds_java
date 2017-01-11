@@ -41,7 +41,7 @@ public class ThreeSum {
 	        return rst;
 	    }
 	 
-	 public static void main(String[] args) {
+	 /*public static void main(String[] args) {
 		 ThreeSum solution = new ThreeSum();
 		 int[] input = {-1, -4, -2, 0, 1, 2};
 		 List<List<Integer>> rst = solution.threeSum(input);
@@ -51,5 +51,5 @@ public class ThreeSum {
 			 }
 			 System.out.println();
 		 }
-	 }
+	 }*/
 }

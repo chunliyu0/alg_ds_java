@@ -32,10 +32,10 @@ public class StrStr {
         return -1;
     }
 	
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		String a = "aaaa";
 		String b = "baaa";
 		StrStr solution = new StrStr();
 		System.out.print(solution.strStr(a, b));
-	}
+	}*/
 }
